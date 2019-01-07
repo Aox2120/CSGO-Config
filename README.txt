@@ -1,0 +1,4 @@
+
+In order to use this config, place every single .cfg file within the 
+repository in your csgo config directory, typically found somewhere 
+along the lines of steamapps\common\Counter-Strike Global Offensive\csgo\cfg.
