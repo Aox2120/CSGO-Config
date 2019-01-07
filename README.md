@@ -1,3 +1,5 @@
+# CSGO-Config
+My personal config for CS:GO
 
 In order to use this config, place every single .cfg file within the 
 repository in your csgo config directory, typically found somewhere 
